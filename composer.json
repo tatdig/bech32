@@ -1,5 +1,5 @@
 {
-  "name": "bitwasp/bech32",
+  "name": "tatdig/bech32",
   "description": "Pure (no dependencies) implementation of bech32",
   "type": "library",
   "homepage": "https://github.com/bit-wasp/bech32",
