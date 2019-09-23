@@ -2,7 +2,7 @@
   "name": "tatdig/bech32",
   "description": "Pure (no dependencies) implementation of bech32",
   "type": "library",
-  "homepage": "https://github.com/bit-wasp/bech32",
+  "homepage": "https://github.com/tatdig/bech32",
   "license": "Unlicense",
   "authors": [
     {
